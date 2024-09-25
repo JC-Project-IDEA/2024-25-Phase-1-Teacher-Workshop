@@ -24,7 +24,7 @@
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%202%20-%20PM.pdf"> 教師工作坊課堂筆記 Day 2 PM </a>
 </li>
 <li>
-   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware Assembling Instructions.pdf"> SnapSound 組裝步驟 </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Teacher-Workshop/blob/main/Snap%20Sound%20-%20Hardware%20Assembly%20Instruction.pdf"> SnapSound 組裝步驟 </a>
 </li>
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/JC-Project-IDEA-phase-2/JC-Project-IDEA-phase-2.ino"> SnapSound編碼： </a>
