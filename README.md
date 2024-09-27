@@ -18,10 +18,10 @@
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%201%20-%20PM.pdf"> 教師工作坊課堂筆記 Day 1 PM </a>
 </li>
 <li>
-   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%202%20-%20AM.pdf"> 教師工作坊課堂筆記 Day 2 AM </a>
+   <a> 教師工作坊課堂筆記 Day 2 AM </a>
 </li>
 <li>
-   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%202%20-%20PM.pdf"> 教師工作坊課堂筆記 Day 2 PM </a>
+   <a> 教師工作坊課堂筆記 Day 2 PM </a>
 </li>
 <li>
    <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Teacher-Workshop/blob/main/Snap%20Sound%20-%20Hardware%20Assembly%20Instruction.pdf"> SnapSound 組裝步驟 </a>
