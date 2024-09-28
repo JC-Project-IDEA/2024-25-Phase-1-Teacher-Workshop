@@ -12,10 +12,10 @@
 
 
 <li>
-   <a> 教師工作坊課堂筆記 Day 1 AM </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Teacher-Workshop/blob/main/Teacher%20Workshop%20-%20Day%201%20AM%20Slides.pdf"> 教師工作坊課堂筆記 Day 1 AM </a>
 </li>
 <li>
-   <a> 教師工作坊課堂筆記 Day 1 PM </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Teacher-Workshop/blob/main/Teacher%20Workshop%20-%20Day%201%20PM%20Slides.pdf"> 教師工作坊課堂筆記 Day 1 PM </a>
 </li>
 <li>
    <a> 教師工作坊課堂筆記 Day 2 AM </a>
